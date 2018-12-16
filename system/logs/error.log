@@ -1,0 +1,200 @@
+2017-02-24 19:10:20 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 25
+2017-02-24 19:10:20 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 25
+2017-02-24 19:26:36 - PHP Notice:  Undefined variable: file_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\files.tpl on line 59
+2017-02-24 19:28:42 - PHP Notice:  Undefined variable: file_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\files.tpl on line 59
+2017-02-24 19:30:07 - PHP Notice:  Undefined variable: file_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\files.tpl on line 59
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:40:58 - PHP Notice:  Undefined property: DirectoryIterator::$SplFileInfo in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:41:49 - PHP Notice:  Undefined property: DirectoryIterator::$getExtension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:53:03 - PHP Warning:  substr() expects parameter 2 to be long, string given in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 33
+2017-02-24 19:56:21 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\library\template\basic.php on line 18
+2017-02-24 19:56:21 - PHP Warning:  require(Array): failed to open stream: No such file or directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\library\template\basic.php on line 18
+2017-02-24 19:58:16 - PHP Notice:  Undefined variable: title in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_note.tpl on line 4
+2017-02-24 19:58:16 - PHP Notice:  Undefined variable: date in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_note.tpl on line 4
+2017-02-24 19:58:16 - PHP Notice:  Undefined variable: add_note in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_note.tpl on line 6
+2017-02-24 19:58:16 - PHP Notice:  Undefined variable: add_note_controller in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_note.tpl on line 6
+2017-02-24 19:58:16 - PHP Notice:  Undefined variable: note in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_note.tpl on line 11
+2017-02-24 19:58:40 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/aptana/intraApp/build_1.2.0.0/application/view/template/appinf/file.tpl! in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\library\template\basic.php on line 26
+2017-02-24 20:09:35 - PHP Notice:  Undefined variable: list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 39
+2017-02-24 20:09:35 - PHP Notice:  Undefined variable: list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 39
+2017-02-24 20:09:35 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 59
+2017-02-24 20:09:58 - PHP Notice:  Undefined variable: list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 39
+2017-02-24 20:09:58 - PHP Notice:  Undefined variable: list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 39
+2017-02-24 20:09:58 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 59
+2017-02-24 20:10:24 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 59
+2017-02-24 20:11:48 - PHP Notice:  Undefined variable: array in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 20:16:52 - PHP Notice:  Undefined variable: extention in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 11
+2017-02-24 20:23:39 - PHP Notice:  Undefined variable: folder_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 19
+2017-02-24 20:23:43 - PHP Notice:  Undefined variable: folder_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 19
+2017-02-24 20:26:31 - PHP Notice:  Undefined variable: folder_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 19
+2017-02-24 20:26:37 - PHP Notice:  Undefined variable: folder_list in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 19
+2017-02-24 20:34:58 - PHP Notice:  Undefined variable: file in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 46
+2017-02-24 20:35:10 - PHP Notice:  Undefined variable: files in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:35:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:37:48 - PHP Notice:  Undefined variable: files in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:37:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:37:48 - PHP Notice:  Undefined variable: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 20
+2017-02-24 20:37:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 20
+2017-02-24 20:38:28 - PHP Notice:  Undefined variable: files in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:38:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 20:38:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 20
+2017-02-24 20:40:52 - PHP Notice:  Undefined variable: key in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 21
+2017-02-24 20:40:52 - PHP Notice:  Undefined variable: key in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 21
+2017-02-24 20:56:12 - PHP Notice:  Array to string conversion in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file_manager.tpl on line 34
+2017-02-24 20:56:50 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:01:10 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:01:18 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:01:36 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:01:54 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:04:24 - PHP Notice:  Undefined variable: view_data in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 21:04:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\core\loader.php on line 51
+2017-02-24 21:04:24 - PHP Notice:  Undefined variable: files in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 21:04:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\appinfo\file.tpl on line 1
+2017-02-24 21:05:46 - PHP Notice:  Undefined variable: view_data in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 21:05:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\core\loader.php on line 51
+2017-02-24 21:10:08 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:10:17 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:10:55 - PHP Notice:  Undefined index: directory in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 12
+2017-02-24 21:12:59 - PHP Notice:  Undefined variable: view_data in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 21:12:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\core\loader.php on line 51
+2017-02-24 21:13:44 - PHP Notice:  Undefined variable: view_data in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 21:13:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\core\loader.php on line 51
+2017-02-24 21:14:00 - PHP Notice:  Undefined variable: view_data in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\files.php on line 40
+2017-02-24 21:14:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\system\core\loader.php on line 51
+2017-02-24 21:24:52 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-02-24 21:53:38 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:53:53 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:54:12 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:55:08 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:55:17 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:55:30 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 46
+2017-02-24 21:56:43 - PHP Notice:  Undefined variable: html in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\appinfo\filemanager.php on line 47
+2017-02-24 22:15:27 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-04-06 0:04:56 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-07-15 18:18:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\profile\profile_employer.php on line 118
+2017-07-15 18:18:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\profile\profile_employer.php on line 118
+2017-07-15 18:18:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\profile\profile_employer.php on line 118
+2017-07-15 18:19:06 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-07-15 18:21:11 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-07-15 18:22:14 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-07-15 18:22:14 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-07-15 18:22:14 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-07-15 18:22:14 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2017-07-15 18:22:23 - PHP Notice:  Undefined index: general in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 15
+2017-07-15 18:22:23 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 16
+2017-07-15 18:22:23 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 17
+2017-07-15 18:22:23 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 18
+2017-07-15 18:22:23 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 19
+2017-10-02 15:17:49 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-10-02 22:33:29 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-10-02 22:33:29 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-10-02 22:33:29 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-10-02 22:33:29 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2017-10-02 22:33:31 - PHP Notice:  Undefined index: general in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 15
+2017-10-02 22:33:31 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 16
+2017-10-02 22:33:31 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 17
+2017-10-02 22:33:31 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 18
+2017-10-02 22:33:31 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\profile_general.tpl on line 19
+2017-10-02 22:34:59 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-10-16 22:58:19 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-12-31 4:50:02 - PHP Notice:  Undefined variable: patient_insurance_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\profile\profile_records.tpl on line 40
+2017-12-31 4:51:38 - PHP Notice:  Undefined index: extension in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\controller\module\google_hangouts.php on line 18
+2017-12-31 4:51:42 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-12-31 4:51:42 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-12-31 4:51:42 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-12-31 4:51:42 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2017-12-31 4:51:47 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-12-31 4:51:47 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-12-31 4:51:47 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-12-31 4:51:47 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2017-12-31 4:51:55 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-12-31 4:51:55 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-12-31 4:51:55 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-12-31 4:51:55 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2017-12-31 4:56:01 - PHP Notice:  Undefined index: insurance_policy in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 16
+2017-12-31 4:56:01 - PHP Notice:  Undefined index: employer in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 17
+2017-12-31 4:56:01 - PHP Notice:  Undefined index: records in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 18
+2017-12-31 4:56:01 - PHP Notice:  Undefined index: notes_action in C:\Users\andrewnite\Documents\Aptana Studio 3 Workspace\intraApp\build_1.2.0.0\application\view\template\helpdoc\main.tpl on line 19
+2018-04-19 1:16:15 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-04-19 1:20:39 - PHP Notice:  Undefined index: extension in /home/andrewnite/intraApp/build_1.2.0.0/application/controller/module/google_hangouts.php on line 18
+2018-04-19 1:20:45 - PHP Notice:  Undefined index: extension in /home/andrewnite/intraApp/build_1.2.0.0/application/controller/module/google_hangouts.php on line 18
+2018-04-19 1:21:07 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-04-19 1:21:13 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 16
+2018-04-19 1:21:13 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 17
+2018-04-19 1:21:13 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 18
+2018-04-19 1:21:13 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 19
+2018-04-19 1:21:15 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-04-19 1:21:15 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-04-19 1:21:15 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-04-19 1:21:15 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-04-19 1:21:15 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-04-19 1:21:24 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-04-19 1:21:24 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-04-19 1:21:24 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-04-19 1:21:24 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-04-19 1:21:24 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-04-19 1:21:48 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-04-19 1:21:48 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-04-19 1:21:48 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-04-19 1:21:48 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-04-19 1:21:48 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-04-19 1:21:52 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-04-19 1:21:52 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-04-19 1:21:52 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-04-19 1:21:52 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-04-19 1:21:52 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-04-19 1:21:55 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-04-19 1:21:55 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-04-19 1:21:55 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-04-19 1:21:55 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-04-19 1:21:55 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-06-12 14:01:58 - PHP Notice:  Undefined variable: search_link in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/search_results.tpl on line 39
+2018-06-12 14:05:23 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-06-12 14:05:49 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-06-12 14:05:52 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-06-12 14:06:24 - PHP Notice:  Undefined index: extension in /home/andrewnite/intraApp/build_1.2.0.0/application/controller/module/google_hangouts.php on line 18
+2018-06-12 14:06:27 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 16
+2018-06-12 14:06:27 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 17
+2018-06-12 14:06:27 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 18
+2018-06-12 14:06:27 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 19
+2018-06-12 14:06:29 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-06-12 14:06:29 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-06-12 14:06:29 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-06-12 14:06:29 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-06-12 14:06:29 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-06-12 14:06:37 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-06-12 14:06:37 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-06-12 14:06:37 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-06-12 14:06:37 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-06-12 14:06:37 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-07-08 16:44:55 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-07-08 16:46:24 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 16
+2018-07-08 16:46:24 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 17
+2018-07-08 16:46:24 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 18
+2018-07-08 16:46:24 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 19
+2018-07-08 16:46:26 - PHP Notice:  Undefined index: general in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 15
+2018-07-08 16:46:26 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 16
+2018-07-08 16:46:26 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 17
+2018-07-08 16:46:26 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 18
+2018-07-08 16:46:26 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/profile_general.tpl on line 19
+2018-09-07 14:53:24 - PHP Notice:  Undefined variable: search_link in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/search_results.tpl on line 39
+2018-12-07 20:13:34 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
+2018-12-07 20:14:45 - PHP Notice:  Undefined index: insurance_policy in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 16
+2018-12-07 20:14:45 - PHP Notice:  Undefined index: employer in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 17
+2018-12-07 20:14:45 - PHP Notice:  Undefined index: records in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 18
+2018-12-07 20:14:45 - PHP Notice:  Undefined index: notes_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/helpdoc/main.tpl on line 19
+2018-12-16 2:50:37 - PHP Notice:  Undefined variable: patient_insurance_action in /home/andrewnite/intraApp/build_1.2.0.0/application/view/template/profile/profile_records.tpl on line 40
