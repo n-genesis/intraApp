@@ -1,8 +1,4 @@
 # README
- 
-![alt text](https://raw.githubusercontent.com/n-genesis/intraApp/master/application/view/image/db-image.png "Image")
-
-
 Notable changes to this project will be documented in this file.
 
 > **Note:**
