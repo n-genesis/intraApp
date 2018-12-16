@@ -15,7 +15,6 @@ All notable changes to this project will be documented in this file.
  - Calander and Notifications features as exstentions
  - admin extention manager
 + >three grid layout to document template to support dynamic layouts for modules
-+ >admin CRUD operations appication data
  - Allow users to pre-enter insurance and employer data DB for selecting from profiles
 + >Admin user setting operations
  - Create, edit, and delete users
