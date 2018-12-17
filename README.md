@@ -2,6 +2,8 @@
  
 ![alt text](https://raw.githubusercontent.com/n-genesis/intraApp/master/application/view/image/db-image.png "Image")
 
+#### Current version 1.2.0.0
+
 #### Database srcipt
 [To be included]
 
