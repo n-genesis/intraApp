@@ -34,8 +34,12 @@
                 <ul class="dropdown-menu dropdown-menu-right">
                     <li><a href="#" data-sandbox-new="note" data-sandbox-patient-id="<?php echo $patient_info['patient_id'];?>" data-sandbox-controller="<?php echo $note_controller;?>" data-sandbox-title="New Note">Create Note Entry</a></li>
                     <li><a href="#" data-sandbox-new="call" data-sandbox-patient-id="<?php echo $patient_info['patient_id'];?>" data-sandbox-controller="<?php echo $call_controller;?>" data-sandbox-title="New Call">Create Call Entry</a></li>
-                </ul></li>
+                </ul>
+            </li>
         </ul>
+        <button class="btn icon-btn bgm-green btn-lg waves-effect pull-right save-btn" style="margin-left:12px;" type="button" data-sandbox-new="note" data-sandbox-patient-id="<?php echo $patient_info['patient_id'];?>" data-sandbox-controller="<?php echo $note_controller;?>" data-sandbox-title="New Note">Note Entry</button>
+
+        <button class="btn icon-btn bgm-green btn-lg waves-effect pull-right save-btn" type="button" data-sandbox-new="call" data-sandbox-patient-id="<?php echo $patient_info['patient_id'];?>" data-sandbox-controller="<?php echo $call_controller;?>" data-sandbox-title="New Call">Call Entry</button>
     </div>
     <ul class="tab-nav tn-justified tn-icon" role="tablist">
             <li role="presentation" class="active"><a class="col-sx-4" href="#tab-1" role="tab" data-toggle="tab"> <i class="zmdi zmdi-comment-alt-text icon-tab"></i> Notes</a></li>
