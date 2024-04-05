@@ -1,7 +1,12 @@
+# DEPRECATED
+This is no longer supported, or actively being developed. It's may be continued but as of April 5th 2024 it's undecided.
+
 # IntraApp
+This a simple CRM for dental offices to manage general (not medical) client information. Users are able to add and edit clients; names, address, phone numbers, insurance and insurance provider information, call and client notes, add a clients to a primary client insurance e.g. connecting a clients insurance to thier spouse. In addition to generating printout of clients and insurance information for physical documentation.
+
 ![Dashboard](https://lh3.googleusercontent.com/d/19L2P8c7E2gqje04ppFCVfE3ZQGs3pkxU)
 
-# README
+# Changelog
 Notable changes to this project will be documented in this file.
 
 > **Note:**
@@ -132,3 +137,15 @@ Remember to add <section data-alert="system"> to templates for new system notice
 >+ capsulize sandbox js objects
 >+ Move insurance information operations to their own controller
 >+ Change Notes/Action/Call table lists to one controller that can be loaded using Ajax
+
+
+## Screenshots
+
+### Client Profile
+![Client Profile](https://lh3.googleusercontent.com/d/1HOsLFN9cKpQlusAdqyvh0wK2dLnF17uB)
+
+### Client Insurance
+![Client Insurance](https://lh3.googleusercontent.com/d/1uEpoUb11wqFp9CvDRv-1_iX5cA7yO3Wn)
+
+### Profile Notes
+![Profile Notes](https://lh3.googleusercontent.com/d/1_7Nj__No1ulNW1ygB82HPXsdxLcGTMAb)
