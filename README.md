@@ -1,3 +1,6 @@
+# IntraApp
+![Dashboard](https://lh3.googleusercontent.com/d/19L2P8c7E2gqje04ppFCVfE3ZQGs3pkxU)
+
 # README
 Notable changes to this project will be documented in this file.
 
