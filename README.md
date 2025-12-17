@@ -1,4 +1,4 @@
-# DEPRECATED
+# STATUS: INACTIVE
 This is no longer supported, or actively being developed. It's may be continued but as of April 5th 2024 it's undecided.
 
 # IntraApp
@@ -149,3 +149,4 @@ Remember to add <section data-alert="system"> to templates for new system notice
 
 ### Profile Notes
 ![Profile Notes](https://lh3.googleusercontent.com/d/1_7Nj__No1ulNW1ygB82HPXsdxLcGTMAb)
+
