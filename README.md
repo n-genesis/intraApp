@@ -139,14 +139,3 @@ Remember to add <section data-alert="system"> to templates for new system notice
 >+ Change Notes/Action/Call table lists to one controller that can be loaded using Ajax
 
 
-## Screenshots
-
-### Client Profile
-![Client Profile](https://lh3.googleusercontent.com/d/1HOsLFN9cKpQlusAdqyvh0wK2dLnF17uB)
-
-### Client Insurance
-![Client Insurance](https://lh3.googleusercontent.com/d/1uEpoUb11wqFp9CvDRv-1_iX5cA7yO3Wn)
-
-### Profile Notes
-![Profile Notes](https://lh3.googleusercontent.com/d/1_7Nj__No1ulNW1ygB82HPXsdxLcGTMAb)
-
